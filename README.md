@@ -10,7 +10,7 @@
 
 <div align="center"><h3>
 
-My collection of resources such as guides, recommendations, and troubleshooting, and general information pertaining to the GPD Win 4. (Credit to lertsoft for the initial collection.)
+My collection of resources such as guides, recommendations, and troubleshooting, and general information pertaining to the GPD Win 4. ([Credit to lertsoft for the initial collection](https://github.com/lertsoft/GPD_WIN4).)
 
 </br>
 
