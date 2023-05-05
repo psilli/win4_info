@@ -332,7 +332,7 @@ https://www.aliexpress.us/item/3256803076020665.html?gatewayAdapt=Pc2Msite </br>
 
 </br>
 
-+ IR mousepad is not responding/working properly
++ **IR mousepad is not responding/working properly**
   - Update or reinstall the driver
     - Contact GPD or the Discord chat if problem persists
 
