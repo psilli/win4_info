@@ -140,7 +140,6 @@ My collection of resources such as guides, recommendations, and troubleshooting,
         - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10ISO)
         - [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 
-</br>
   
 + ### **Linux/SteamOS:**
   - Official Valve SteamOS Recovery Image:
