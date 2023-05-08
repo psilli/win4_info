@@ -26,7 +26,7 @@ My collection of resources such as guides, recommendations, and troubleshooting,
   <li>
     <a href="#getting-started">Getting Started</a>
     <ul>
-      <li><a href="#test-the-hardware">Testing & Inspection</a></li>
+      <li><a href="#testing-and-inspecting-the-device">Testing & Inspection</a></li>
       <li><a href="#os-installation">OS Installation</a></li>
       <li><a href="#useful-information">Useful information</a></li>
     </ul>
@@ -34,7 +34,7 @@ My collection of resources such as guides, recommendations, and troubleshooting,
   <li>
     <a href="#drivers--applications">Drivers & Applications</a>
     <ul>
-      <li><a href="#official-drivers">Drivers</a></li>
+      <li><a href="#drivers--applications">Drivers</a></li>
       <li><a href="#screen-color-correction">Screen Color Correction</a></li>
       <li><a href="#tdp-tools">TDP Tools</a></li>
     </ul>
@@ -326,7 +326,7 @@ https://www.aliexpress.us/item/3256803076020665.html?gatewayAdapt=Pc2Msite </br>
   5. Once the device is open, power on and boot to BIOS. The screen needs to be on during the flash
   6. Refer back to the document in step 2 for assembling the programmer, prepping the software, and then flashing the chip
   7. On success, power-off and reassemble the unit
-  8. Boot back into the OS and run the frameskipping test. If the flash worked, you should notice frameskipping on all fps speeds
+  8. Boot back into the OS and run the frameskipping test. If the flash worked, all the fps speeds on the frameskipping test will appear to transition smoothly
       >Some stuttering will happen on all computers, no matter what. However, upon running the frameskipping test, if you no longer notice it at regular intervals like before, then the flash was a success
   - [Additionally, Phawx has released a video tutorial on how to apply the fix as well as an explanation into the problem itself](https://www.youtube.com/watch?v=Ovp7jrJdLAc)
 
