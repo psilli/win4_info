@@ -74,7 +74,7 @@ My collection of resources such as guides, recommendations, and troubleshooting,
 
 </br>
 
-+ After loading into Windows, use software such as listed below to stress test the GPU and CPU and look for problems such as screen display failure or poor processing speeds.
++ After loading into Windows, use software such as listed below to stress test the GPU and CPU and look for problems such as screen display failure or poor processing speeds
     - [GPU - Furmark](https://geeks3d.com/furmark/)
     - [CPU - GIMPS](https://www.mersenne.org/download/)
     - Alternatively, use whatever stress-testing/benchmarking software you prefer
@@ -130,7 +130,6 @@ My collection of resources such as guides, recommendations, and troubleshooting,
 
 (For those planning to reinstall Windows or try a different OS altogether. Not required)
 
-</br>
 
 + ### **Windows 10/11:**
   - GPD ISO (Windows 11):
